@@ -1,0 +1,689 @@
+Enter time (seconds) for AI thinking : 5
+Whose is going going first? (1 for human / 2 for computer) : 2
+
+
+  1 2 3 4 5 6 7 8
+a . . . . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a1
+
+  1 2 3 4 5 6 7 8
+a O . . . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . . X . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a5
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : b1
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b O . . . . . . . 
+c . . . . . . . . 
+d . . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b O . . . . . . . 
+c . . . . . . . . 
+d X . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : b2
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b O O . . . . . . 
+c . . . . . . . . 
+d X . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b O O . X . . . . 
+c . . . . . . . . 
+d X . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : c3
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b O O . X . . . . 
+c . . O . . . . . 
+d X . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . . X O . . . 
+b O O . X . . . . 
+c . X O . . . . . 
+d X . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a3
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . . 
+b O O . X . . . . 
+c . X O . . . . . 
+d X . . . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . . 
+b O O . X . . . . 
+c . X O . . . . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : b2
+invlaid move, try again: b3
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . . 
+b O O O X . . . . 
+c . X O . . . . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X . . . . 
+c . X O . . . . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : c4
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X . . . . 
+c . X O O . . . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X . . . . 
+c . X O O . X . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : c5
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X . . . . 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X . . . . 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : b5
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X O . . . 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O . . X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a6
+
+  1 2 3 4 5 6 7 8
+a O . O X O O . X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . . . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O . X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a7
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h . . . . X . . . 
+ Enter move : h1
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e . . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h O . . . X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h O . . . X . . . 
+ Enter move : h2
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h O O . . X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h O O . X X . . . 
+ Enter move : h3
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . . . . . . . . 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . X . . . . . . 
+h O O O X X . . . 
+ Enter move : g4
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . X . O . . . . 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g . X . O . X . . 
+h O O O X X . . . 
+ Enter move : g1
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . . . . . X . 
+f . . . X . . . . 
+g O X . O . X . . 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . X . . . X . 
+f . . . X . . . . 
+g O X . O . X . . 
+h O O O X X . . . 
+ Enter move : f1
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . . . 
+e X . X . . . X . 
+f O . . X . . . . 
+g O X . O . X . . 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . X . 
+e X . X . . . X . 
+f O . . X . . . . 
+g O X . O . X . . 
+h O O O X X . . . 
+ Enter move : f5
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . X . 
+e X . X . . . X . 
+f O . . X O . . . 
+g O X . O . X . . 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . X . 
+e X . X . . . X . 
+f O . . X O . . X 
+g O X . O . X . . 
+h O O O X X . . . 
+ Enter move : f2
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . X . 
+e X . X . . . X . 
+f O O . X O . . X 
+g O X . O . X . . 
+h O O O X X . . . 
+f
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . X . 
+e X . X . . . X . 
+f O O . X O . . X 
+g O X . O . X . X 
+h O O O X X . . . 
+ Enter move : f4
+invlaid move, try again: f4
+invlaid move, try again: f3
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X . X . 
+e X . X . . . X . 
+f O O O X O . . X 
+g O X . O . X . X 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c . X O O O X . . 
+d X . X . X X X . 
+e X . X . . . X . 
+f O O O X O . . X 
+g O X . O . X . X 
+h O O O X X . . . 
+ Enter move : c1
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c O X O O O X . . 
+d X . X . X X X . 
+e X . X . . . X . 
+f O O O X O . . X 
+g O X . O . X . X 
+h O O O X X . . . 
+
+  1 2 3 4 5 6 7 8
+a O . O X O O O X 
+b O O O X O . . X 
+c O X O O O X . . 
+d X . X X X X X . 
+e X . X . . . X . 
+f O O O X O . . X 
+g O X . O . X . X 
+h O O O X X . . . 
+AI wins :(
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+"C:\Program Files\Java\jdk1.8.0_121\bin\java" -Didea.launcher.port=7532 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.3.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Users\Cesar\Downloads\FourInALine\out\production\FourInALine;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.3.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain Main
+Enter time (seconds) for AI thinking : 3
+Whose is going going first? (1 for human / 2 for computer) : 1
+
+  1 2 3 4 5 6 7 8
+a . . . . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . . . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a3
+
+  1 2 3 4 5 6 7 8
+a X . O . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . O . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d X . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a4
+
+  1 2 3 4 5 6 7 8
+a X . O O . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d X . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . O O . . . . 
+b . . . . . . . . 
+c X . . . . . . . 
+d X . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a5
+
+  1 2 3 4 5 6 7 8
+a X . O O O . . . 
+b . . . . . . . . 
+c X . . . . . . . 
+d X . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . O O O . . . 
+b . . . . . . . . 
+c X . . . . . . . 
+d X . . . . . . . 
+e X . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a6
+
+  1 2 3 4 5 6 7 8
+a X . O O O O . . 
+b . . . . . . . . 
+c X . . . . . . . 
+d X . . . . . . . 
+e X . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+Player wins!
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+Enter time (seconds) for AI thinking : 3
+Whose is going going first? (1 for human / 2 for computer) : 1
+
+  1 2 3 4 5 6 7 8
+a . . . . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . . . . . . . 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : a8
+
+  1 2 3 4 5 6 7 8
+a X . . . . . . O 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . . X . . . O 
+b . . . . . . . . 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : b8
+
+  1 2 3 4 5 6 7 8
+a X . . X . . . O 
+b . . . . . . . O 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X . X X . . . O 
+b . . . . . . . O 
+c . . . . . . . . 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+ Enter move : c8
+
+  1 2 3 4 5 6 7 8
+a X . X X . . . O 
+b . . . . . . . O 
+c . . . . . . . O 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+
+  1 2 3 4 5 6 7 8
+a X X X X . . . O 
+b . . . . . . . O 
+c . . . . . . . O 
+d . . . . . . . . 
+e . . . . . . . . 
+f . . . . . . . . 
+g . . . . . . . . 
+h . . . . . . . . 
+AI wins :(
