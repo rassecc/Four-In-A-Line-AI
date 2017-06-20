@@ -2,7 +2,7 @@
 
 The program runs a Four In A Line game vs you and an AI opponent. Goal is to make a line of 4 O's anywhere on the board either horizontally or vertically. The AI uses alpha-beta pruning to find the best move in the alloted time against the player.
 
-**1. Asks you how much time you would like the AI to process alpha beta pruning at each move **
+**1. Asks you how much time you would like the AI to process alpha beta pruning at each move**
 
     1. enter in any number
 
